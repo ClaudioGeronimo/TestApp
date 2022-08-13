@@ -11,5 +11,5 @@ export class Comp1Component implements OnInit {
 
   ngOnInit(): void {
   }
-
+ console.log("Hola mundo")
 }
